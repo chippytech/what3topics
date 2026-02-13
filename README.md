@@ -1,4 +1,4 @@
-
+#     <i>Note that <a href="https://w3t.chippytime.com">What3topics</a> has been deprecated and will no longer recieve any updates.<a href="/what3topics-deprecation">Learn more</a></i>
 # 👾 What3Topics  
 
 **A creative 3-word topic generator powered by AI**
